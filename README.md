@@ -2,7 +2,7 @@
 
 *This is a preview release. The API is subject to change.*
 
-This is not an official Google product.
+This is not an official Nexion product.
 
 CameraView aims to help Android developers easily integrate Camera features.
 
